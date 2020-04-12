@@ -1627,24 +1627,34 @@
 		"oAP": "\/team.html",
 		"oF": 0
 		},
-	"\/team\/Captains\/akashyadav-captain.jpg": {
+	"\/team\/captains\/akashyadav-captain.jpg": {
 		"ft": 16384,
-		"iS": 2098911,
+		"iS": 188908,
 		"oA": 0,
-		"oAP": "\/team\/Captains\/akashyadav-captain.jpg",
+		"oAP": "\/team\/captains\/akashyadav-captain.jpg",
 		"oF": 0,
 		"oIPL": 0,
 		"opt": 0,
 		"q": 100
 		},
-	"\/team\/Captains\/rahulkadam-vicecaptain.jpg": {
+	"\/team\/captains\/org_rahulkadam-vicecaptain.jpg": {
 		"ft": 16384,
-		"iS": 2766141,
+		"iS": 253622,
 		"oA": 0,
-		"oAP": "\/team\/Captains\/rahulkadam-vicecaptain.jpg",
+		"oAP": "\/team\/captains\/org_rahulkadam-vicecaptain.jpg",
 		"oF": 0,
 		"oIPL": 0,
-		"opt": 1,
+		"opt": 0,
+		"q": 100
+		},
+	"\/team\/captains\/rahulkadam-vicecaptain.jpg": {
+		"ft": 16384,
+		"iS": 828266,
+		"oA": 0,
+		"oAP": "\/team\/captains\/rahulkadam-vicecaptain.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
 		"q": 100
 		},
 	"\/team\/design_team\/aero\/bhaveshchaudhari-aerolead.jpg": {
@@ -1659,27 +1669,27 @@
 		},
 	"\/team\/design_team\/brakes\/omkargaonkarbrakeslead.jpg": {
 		"ft": 16384,
-		"iS": 3183740,
+		"iS": 475881,
 		"oA": 0,
 		"oAP": "\/team\/design_team\/brakes\/omkargaonkarbrakeslead.jpg",
 		"oF": 0,
 		"oIPL": 0,
-		"opt": 1,
+		"opt": 0,
 		"q": 100
 		},
 	"\/team\/design_team\/brakes\/pratikjadhav-brakes.jpg": {
 		"ft": 16384,
-		"iS": 2677419,
+		"iS": 270937,
 		"oA": 0,
 		"oAP": "\/team\/design_team\/brakes\/pratikjadhav-brakes.jpg",
 		"oF": 0,
 		"oIPL": 0,
-		"opt": 1,
+		"opt": 0,
 		"q": 100
 		},
 	"\/team\/design_team\/brakes\/riteshshinde-brakes.jpg": {
 		"ft": 16384,
-		"iS": 2963380,
+		"iS": 266400,
 		"oA": 0,
 		"oAP": "\/team\/design_team\/brakes\/riteshshinde-brakes.jpg",
 		"oF": 0,
@@ -1689,22 +1699,22 @@
 		},
 	"\/team\/design_team\/chassis\/jaykumardeshani-chassislead.jpg": {
 		"ft": 16384,
-		"iS": 2806518,
+		"iS": 297107,
 		"oA": 0,
 		"oAP": "\/team\/design_team\/chassis\/jaykumardeshani-chassislead.jpg",
 		"oF": 0,
 		"oIPL": 0,
-		"opt": 1,
+		"opt": 0,
 		"q": 100
 		},
 	"\/team\/design_team\/electronics\/arunkumarsingh-electronics.jpg": {
 		"ft": 16384,
-		"iS": 2493599,
+		"iS": 212366,
 		"oA": 0,
 		"oAP": "\/team\/design_team\/electronics\/arunkumarsingh-electronics.jpg",
 		"oF": 0,
 		"oIPL": 0,
-		"opt": 1,
+		"opt": 0,
 		"q": 100
 		},
 	"\/team\/design_team\/electronics\/ishanshinde-electronics.jpg": {
@@ -1719,12 +1729,12 @@
 		},
 	"\/team\/design_team\/electronics\/mukeshchaudhary-electronics.jpg": {
 		"ft": 16384,
-		"iS": 2943010,
+		"iS": 284916,
 		"oA": 0,
 		"oAP": "\/team\/design_team\/electronics\/mukeshchaudhary-electronics.jpg",
 		"oF": 0,
 		"oIPL": 0,
-		"opt": 1,
+		"opt": 0,
 		"q": 100
 		},
 	"\/team\/design_team\/electronics\/omkarnandan-electronics.jpg": {
@@ -1739,47 +1749,47 @@
 		},
 	"\/team\/design_team\/electronics\/rohansonar-electronics.jpg": {
 		"ft": 16384,
-		"iS": 2904467,
+		"iS": 314533,
 		"oA": 0,
 		"oAP": "\/team\/design_team\/electronics\/rohansonar-electronics.jpg",
 		"oF": 0,
 		"oIPL": 0,
-		"opt": 1,
+		"opt": 0,
 		"q": 100
 		},
 	"\/team\/design_team\/powertrain\/akashlamba-powertrain.jpg": {
 		"ft": 16384,
-		"iS": 3044335,
+		"iS": 309633,
 		"oA": 0,
 		"oAP": "\/team\/design_team\/powertrain\/akashlamba-powertrain.jpg",
 		"oF": 0,
 		"oIPL": 0,
-		"opt": 1,
+		"opt": 0,
 		"q": 100
 		},
 	"\/team\/design_team\/powertrain\/anujagrawal-powertrain.jpg": {
 		"ft": 16384,
-		"iS": 2473442,
+		"iS": 258188,
 		"oA": 0,
 		"oAP": "\/team\/design_team\/powertrain\/anujagrawal-powertrain.jpg",
 		"oF": 0,
 		"oIPL": 0,
-		"opt": 1,
+		"opt": 0,
 		"q": 100
 		},
 	"\/team\/design_team\/powertrain\/navjyotpurohit-powertrainlead.jpg": {
 		"ft": 16384,
-		"iS": 2642240,
+		"iS": 225410,
 		"oA": 0,
 		"oAP": "\/team\/design_team\/powertrain\/navjyotpurohit-powertrainlead.jpg",
 		"oF": 0,
 		"oIPL": 0,
-		"opt": 1,
+		"opt": 0,
 		"q": 100
 		},
 	"\/team\/design_team\/powertrain\/siddeshsawant-powertrain.jpg": {
 		"ft": 16384,
-		"iS": 3025421,
+		"iS": 302501,
 		"oA": 0,
 		"oAP": "\/team\/design_team\/powertrain\/siddeshsawant-powertrain.jpg",
 		"oF": 0,
@@ -1799,17 +1809,17 @@
 		},
 	"\/team\/design_team\/steering\/vipulatavade-steeringlead.jpg": {
 		"ft": 16384,
-		"iS": 2728417,
+		"iS": 301298,
 		"oA": 0,
 		"oAP": "\/team\/design_team\/steering\/vipulatavade-steeringlead.jpg",
 		"oF": 0,
 		"oIPL": 0,
-		"opt": 1,
+		"opt": 0,
 		"q": 100
 		},
 	"\/team\/design_team\/suspension\/shaleengupta-suspension.jpg": {
 		"ft": 16384,
-		"iS": 3179306,
+		"iS": 367954,
 		"oA": 0,
 		"oAP": "\/team\/design_team\/suspension\/shaleengupta-suspension.jpg",
 		"oF": 0,
@@ -1817,19 +1827,19 @@
 		"opt": 0,
 		"q": 100
 		},
-	"\/team\/design_team\/suspension\/vijaymistrysuspensionlead.jpg": {
+	"\/team\/design_team\/suspension\/vijaymistry-suspensionlead.jpg": {
 		"ft": 16384,
-		"iS": 2474684,
+		"iS": 241455,
 		"oA": 0,
-		"oAP": "\/team\/design_team\/suspension\/vijaymistrysuspensionlead.jpg",
+		"oAP": "\/team\/design_team\/suspension\/vijaymistry-suspensionlead.jpg",
 		"oF": 0,
 		"oIPL": 0,
-		"opt": 1,
+		"opt": 0,
 		"q": 100
 		},
 	"\/team\/mentors\/kiranmungekar-driverlessmentor.jpg": {
 		"ft": 16384,
-		"iS": 3299343,
+		"iS": 598538,
 		"oA": 0,
 		"oAP": "\/team\/mentors\/kiranmungekar-driverlessmentor.jpg",
 		"oF": 0,
@@ -1849,52 +1859,52 @@
 		},
 	"\/team\/spons&marketing\/satyamshukla-spons.jpg": {
 		"ft": 16384,
-		"iS": 2510754,
+		"iS": 230768,
 		"oA": 0,
 		"oAP": "\/team\/spons&marketing\/satyamshukla-spons.jpg",
 		"oF": 0,
 		"oIPL": 0,
-		"opt": 1,
+		"opt": 0,
 		"q": 100
 		},
 	"\/team\/spons&marketing\/shubhamshah-spons.jpg": {
 		"ft": 16384,
-		"iS": 2705844,
+		"iS": 253593,
 		"oA": 0,
 		"oAP": "\/team\/spons&marketing\/shubhamshah-spons.jpg",
 		"oF": 0,
 		"oIPL": 0,
-		"opt": 1,
+		"opt": 0,
 		"q": 100
 		},
 	"\/team\/team_leads\/chiranjeetchoudhary-driverlesslead.jpg": {
 		"ft": 16384,
-		"iS": 3206863,
+		"iS": 423071,
 		"oA": 0,
 		"oAP": "\/team\/team_leads\/chiranjeetchoudhary-driverlesslead.jpg",
 		"oF": 0,
 		"oIPL": 0,
-		"opt": 1,
+		"opt": 0,
 		"q": 100
 		},
 	"\/team\/team_leads\/rishabhtiwari-designlead.jpg": {
 		"ft": 16384,
-		"iS": 3426235,
+		"iS": 502984,
 		"oA": 0,
 		"oAP": "\/team\/team_leads\/rishabhtiwari-designlead.jpg",
 		"oF": 0,
 		"oIPL": 0,
-		"opt": 1,
+		"opt": 0,
 		"q": 100
 		},
 	"\/team\/team_leads\/shreygupta-sponlead.jpg": {
 		"ft": 16384,
-		"iS": 4093657,
+		"iS": 633974,
 		"oA": 0,
 		"oAP": "\/team\/team_leads\/shreygupta-sponlead.jpg",
 		"oF": 0,
 		"oIPL": 0,
-		"opt": 1,
+		"opt": 0,
 		"q": 100
 		}
 	},

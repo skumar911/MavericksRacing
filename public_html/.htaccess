@@ -4,3 +4,9 @@ RewriteEngine on
 RewriteOptions inherit
 RewriteCond %{HTTP_HOST} ^.*$
 RewriteRule ^donate$ "https\:\/\/milaap\.org\/fundraisers\/support\-mavericks\-racing\-1\?utm_source\=whatsapp\&utm_medium\=fundraisers\-title\&mlp_referrer_id\=2339354" [R=301,L]
+RewriteCond %{HTTPS} off
+RewriteCond %{HTTP:X-Forwarded-SSL} !on
+RewriteCond %{HTTP_HOST} ^mavericksracing\.in$ [OR]
+RewriteCond %{HTTP_HOST} ^www\.mavericksracing\.in$
+RewriteRule ^/?$ "https\:\/\/mavericksracing\.in\/" [R=301,L]
+
